@@ -1,0 +1,14 @@
+{
+    "grid_size": 15,
+    "num_obstacles": 100,
+    "obstacle_size": 1,
+    "agent_names": [
+        "Alice",
+        "Bob",
+        "Chad",
+        "Dave"
+    ],
+    "seed": 229182293781599497,
+    "count": 4,
+    "edition": "VERSION_2"
+}
